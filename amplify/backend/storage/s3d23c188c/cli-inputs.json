@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3d23c188c",
+  "policyUUID": "d23c188c",
+  "bucketName": "amplifychatapp8435c27e1291409ba691b3de11e2ce4c",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
